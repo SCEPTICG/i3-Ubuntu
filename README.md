@@ -5,4 +5,4 @@ Dotfiles de mi rice de Ubuntu con i3 </br>
 ## Índice
 [Screanshots](#Screanshots)
 
-### [Screanshots]Screanshots
+### Screanshots
