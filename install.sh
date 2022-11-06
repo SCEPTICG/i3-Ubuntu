@@ -19,12 +19,12 @@ rm -rf libiconv-1.11.tar.gz
 rm -rf libiconv-1.11 
 
 #Instalamos i3-gaps
-mkdir /tmp/build
-cd /tmp/build
+mkdir /build
+cd /build
 git clone https://www.github.com/Airblader/i3 i3-gaps
 cd i3-gaps
 git checkout gaps && git pull
 meson -Ddocs=true -Dmans=true ../build
 meson compile -C ../build
 sudo meson install -C ../build
-sudo rm -rf mkdir /tmp/build
+
