@@ -25,5 +25,5 @@ Alguna información sobre mi setup:
 ### Instalación
 ```
 chmod +x install.sh
-./install,sh
+./install.sh
 ```
