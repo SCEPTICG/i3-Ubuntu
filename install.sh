@@ -19,8 +19,8 @@ rm -rf libiconv-1.11.tar.gz
 rm -rf libiconv-1.11 
 
 #Instalamos i3-gaps
-mkdir /build
-cd /build
+mkdir build
+cd build
 git clone https://www.github.com/Airblader/i3 i3-gaps
 cd i3-gaps
 git checkout gaps && git pull
