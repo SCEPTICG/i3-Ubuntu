@@ -1,3 +1,3 @@
 # I3-Ubuntu
-Dotfiles de mi rice de Ubuntu con i3
+Dotfiles de mi rice de Ubuntu con i3 </br>
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
