@@ -6,6 +6,7 @@ Dotfiles de mi rice de Ubuntu con i3 </br>
 [Información](#Información)</br>
 [Screanshots](#Screanshots)</br>
 [Programas](#Programas)</br>
+[Instalación](#Instalación)
 
 ### Información
 Alguna información sobre mi setup:
@@ -20,3 +21,9 @@ Alguna información sobre mi setup:
 ### Screanshots
 
 ### Programas
+
+### Instalación
+```
+chmod +x install.sh
+./install,sh
+```
