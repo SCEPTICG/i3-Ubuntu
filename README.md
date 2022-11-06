@@ -9,4 +9,11 @@ Dotfiles de mi rice de Ubuntu con i3 </br>
 ### Información
 Alguna información sobre mi setup:
 - **OS:** Ubuntu 22.04
+- **WM:** i3-gaps
+- **Terminal:** Kitty
+- **Shell:** zsh
+- **Editor:** neovim(Astrovim)/VSCode
+- **Compositor:** picom
+- **Application launcher:** rofi
+- 
 ### Screanshots
