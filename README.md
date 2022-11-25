@@ -24,6 +24,8 @@ Alguna información sobre mi setup:
 
 ### Instalación
 ```
+git clone https://github.com/SCEPTICG/i3-Ubuntu
+cd i3-Ubuntu
 chmod +x install.sh
 ./install.sh
 ```
