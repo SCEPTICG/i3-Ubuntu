@@ -28,3 +28,7 @@ meson -Ddocs=true -Dmans=true ../build
 meson compile -C ../build
 sudo meson install -C ../build
 
+#CARGAMOS LA CONFIGURACIÓN DE NEOFETCH
+cp config/neofetch ~/.config/neofetch
+
+
