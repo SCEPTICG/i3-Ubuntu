@@ -28,6 +28,9 @@ meson -Ddocs=true -Dmans=true ../build
 meson compile -C ../build
 sudo meson install -C ../build
 
+#INSTALAMOS LOS PAQUETES
+sudo apt install neofetch kitty  -y
+
 #CARGAMOS LA CONFIGURACIÓN DE NEOFETCH
 cp config/neofetch ~/.config/neofetch
 
