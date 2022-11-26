@@ -31,4 +31,5 @@ sudo meson install -C ../build
 #CARGAMOS LA CONFIGURACIÓN DE NEOFETCH
 cp config/neofetch ~/.config/neofetch
 
-
+#CARGAMOS LA CONFIGURACIÓN DE KITTY
+cp config/kitty ~/.config/kitty
