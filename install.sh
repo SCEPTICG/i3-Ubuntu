@@ -29,10 +29,13 @@ meson compile -C ../build
 sudo meson install -C ../build
 
 #INSTALAMOS LOS PAQUETES
-sudo apt install neofetch kitty  -y
+sudo apt install neofetch kitty dunst -y
 
 #CARGAMOS LA CONFIGURACIÓN DE NEOFETCH
 cp config/neofetch ~/.config/neofetch
 
 #CARGAMOS LA CONFIGURACIÓN DE KITTY
 cp config/kitty ~/.config/kitty
+
+#CARGAMOS LA CONFIGURACIÓN DE DUNST
+cp config/dunst ~/.config/dunst
