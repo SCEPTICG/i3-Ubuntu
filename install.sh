@@ -29,7 +29,7 @@ meson compile -C ../build
 sudo meson install -C ../build
 
 #INSTALAMOS LOS PAQUETES
-sudo apt install neofetch kitty dunst -y
+sudo apt install neofetch kitty dunst picom polybar -y
 
 #CARGAMOS LA CONFIGURACIÓN DE NEOFETCH
 cp config/neofetch ~/.config/neofetch
